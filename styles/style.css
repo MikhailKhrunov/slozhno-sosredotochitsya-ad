@@ -23,7 +23,7 @@
   margin-block-end: calc(10px - var(--inblock-padding));
 }
 
-.decore_rec{
+.decore_rec {
   display: none;
   align-self: start;
   justify-self: end;
