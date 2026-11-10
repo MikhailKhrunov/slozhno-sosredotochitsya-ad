@@ -337,7 +337,7 @@
     flex-direction: row;
   }
 
-  .hedaer__title {
+  .header__title {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   }
 
@@ -365,7 +365,7 @@
 
   .section__content_images {
     margin-block-start: 20px;
-    max-block-size: calc(1024px + var(--inblock-padding));
+    /* max-block-size: calc(1028px + var(--inblock-padding)); */
     gap: 20px;
   }
 }
