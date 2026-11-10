@@ -3,16 +3,16 @@
   и их переопределение под различные устройства
 */
 :root {
-  --bg-image: url('../images/cover-image-dark.png');
-  --title-color: #db00ff;
-  --accent-color: #ff0070;
-  --bg-color: #000028;
+  --bg-image: url('../images/cover-image-light.png');
   --font: 'IBM Plex mono';
   --font-size: 18px;
-  --dark-text-color: #000028;
-  --light-text-color: #f1b2ce;
-  --medium-text-color: #ff0070;
-  --dark-text-color-transparent: #ff007066;
+  --title-color: #ffc2e6;
+  --accent-color: #ff8dcb;
+  --bg-color: #fff1f7;
+  --dark-text-color: #353430;
+  --light-text-color: #353430;
+  --dark-text-color-transparent: #35343066;
+  --medium-text-color: #353430;
   --inblock-padding: 10px;
 }
 
