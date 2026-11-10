@@ -365,7 +365,7 @@
 
   .section__content_images {
     margin-block-start: 20px;
-    /* max-block-size: calc(1028px + var(--inblock-padding)); */
+    max-block-size: calc(1028px + var(--inblock-padding));
     gap: 20px;
   }
 }
