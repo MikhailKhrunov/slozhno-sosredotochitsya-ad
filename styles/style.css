@@ -157,6 +157,12 @@
   margin-block-end: 10px;
 }
 
+.section__quest_title_pic {
+  color: var(--dark-text-color);
+  font-size: var(--font-size);
+  margin-block-end: 10px;
+}
+
 .section__content {
   display: flex;
   flex-direction: column;
